@@ -1,9 +1,8 @@
 # Lab 21 — Evaluation Report
 
-**Học viên**: _(điền Họ tên — MSSV)_
+**Học viên**: Dương Trịnh Hoài An - 2A202600050
 **Ngày nộp**: 2026-05-07
-**Submission option**: B (HuggingFace Hub)
-
+**Submission option**: HuggingFace Hub
 ---
 
 ## 1. Setup
