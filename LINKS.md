@@ -12,3 +12,7 @@
 - **Dataset**: `5CD-AI/Vietnamese-alpaca-gpt4-gg-translated` (200 samples)
 - **Method**: QLoRA 4-bit + LoRA r=16, alpha=32, target: q_proj + v_proj
 - **Training**: 3 epochs, lr=2e-4, cosine schedule, T4 GPU
+
+
+## Github
+- https://github.com/andth204/lab21_2A202600050_DuongTrinhHoaiAn.git
